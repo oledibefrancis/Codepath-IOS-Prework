@@ -8,8 +8,8 @@ Time spent: 5 hours
 
 The following **required** functionality is complete:
 
-[x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-[x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+[X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+[X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -22,13 +22,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/pbQ7rQR' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://i.imgur.com/pbQ7rQR.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Had difficulties pushing to github becuase my account had a 2 factor authetication and I had to use an acess token.
 
 ## License
 
